@@ -29,12 +29,17 @@
     "form-data": "4.0.5",
     "cipher-base": "1.0.7",
     "sha.js": "2.4.12",
-    "elliptic": "6.5.7",
+    "elliptic": "6.6.1",
     "minimatch": "3.1.4",
     "json5": "1.0.2",
     "tar": "7.5.11",
     "braces": "3.0.3",
     "browserify-sign": "4.2.5",
-    "js-yaml": "3.14.1"
+    "js-yaml": "3.14.1",
+    "tough-cookie": "4.1.4",
+    "qs": "6.13.0",
+    "ajv": "6.12.6",
+    "postcss": "8.4.49",
+    "yargs-parser": "21.1.1"
   }
 }
